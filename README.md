@@ -3,7 +3,7 @@ I'm a master physics student. I got my bachelor's degree in physics in 2022 in M
 
 My bachelor's thesis deal with the electromagnetic caracterization of a telescope MHFT prototype for the LiteBird satellite space-mission 🛰️.
 
-Now I'm currently focusing on my master thesis, reported on airport_forecasting folder. It's about now-casting meterological previsions by conv-LSTM neural network architecture fore areonautical applications 🛩️.
+Now I'm currently focusing on my master thesis, reported on vineyard_detection repository and connected to iGrape project 🍇.
 
 I'm 23 and I like coding, playing volleyball and enjoying nature 🌳.
 
