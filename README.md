@@ -3,7 +3,9 @@ I'm a master physics student. I got my bachelor's degree in physics in 2022 in M
 
 My bachelor's thesis deal with the electromagnetic caracterization of a telescope MHFT prototype for the LiteBird satellite space-mission 🛰️.
 
-Now I'm currently focusing on my master thesis, reported on vineyard_detection repository and connected to iGrape project 🍇.
+My master thesis is reported on vineyard_detection repository and connected to iGrape project 🍇.
+
+Now I'm currently working as an UNIMI collaborator to continue my master thesis project.
 
 I'm 23 and I like coding, playing volleyball and enjoying nature 🌳.
 
