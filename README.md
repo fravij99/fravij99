@@ -5,7 +5,7 @@ My bachelor's thesis deal with the electromagnetic caracterization of a telescop
 
 My master thesis is reported on vineyard_detection repository and connected to iGrape project 🍇.
 
-Now I'm currently working as an UNIMI collaborator to continue my master thesis project.
+Now I'm currently working as an UNIMI research fellow to continue my master thesis project.
 
 I'm 23 and I like coding, playing volleyball and enjoying nature 🌳.
 
