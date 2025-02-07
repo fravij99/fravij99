@@ -1,16 +1,7 @@
 # Introducing myself:
-I'm a master physics student. I got my bachelor's degree in physics in 2022 in Milan. I am interested in Machine and Deep learning problems. 
-
-My bachelor's thesis deal with the electromagnetic caracterization of a telescope MHFT prototype for the LiteBird satellite space-mission 🛰️.
-
-My master thesis is reported on vineyard_detection repository and connected to iGrape project 🍇.
-
-I've worked as an UNIMI research fellow, and the repositories related to my researcher period are Foam_Segmentation, Hyperspectral_classificator and Tensorial_decomposition_for_anomaly_detection.
-
-I'm currently working as Junior Data Scientist in Cefriel company. 
-
+My bachelor's thesis deal with the electromagnetic caracterization of a telescope MHFT prototype for the LiteBird satellite space-mission 🛰️. My master thesis is reported on vineyard_detection repository and connected to iGrape project 🍇 and it was based on anomaly detection of an optical IoT data stream.
+I've worked as an UNIMI research fellow, and the repositories related to my researcher period are Foam_Segmentation, Hyperspectral_classificator and Tensorial_decomposition_for_anomaly_detection. I'm currently working as Junior Data Scientist in Cefriel company. 
 I'm 25 y/o and I like coding, playing volleyball and enjoying nature 🌳.
-
 Feel free to have a scroll around my profile. You can contact me at this e-mail: fravilla30@gmail.com
 
 ### 🌐 Socials:
