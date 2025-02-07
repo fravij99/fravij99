@@ -5,7 +5,9 @@ My bachelor's thesis deal with the electromagnetic caracterization of a telescop
 
 My master thesis is reported on vineyard_detection repository and connected to iGrape project 🍇.
 
-Now I'm currently working as an UNIMI research fellow to continue my master thesis project.
+I've worked as an UNIMI research fellow, and the repositories related to my researcher period are Foam_Segmentation, Hyperspectral_classificator and Tensorial_decomposition_for_anomaly_detection.
+
+I'm currently working as Junior Data Scientist in Cefriel company. 
 
 I'm 25 y/o and I like coding, playing volleyball and enjoying nature 🌳.
 
