@@ -1,5 +1,5 @@
 # Introducing myself:
-My bachelor's thesis deal with the electromagnetic caracterization of a telescope MHFT prototype for the LiteBird satellite space-mission 🛰️. My master thesis is reported on `vineyard_detection` repository and connected to iGrape project 🍇 and it was based on anomaly detection of an optical IoT data stream. 
+My bachelor's thesis in Physics deal with the electromagnetic caracterization of a telescope MHFT prototype for the LiteBird satellite space-mission 🛰️. My master thesis is reported on `vineyard_detection` repository and connected to iGrape project 🍇 and it was based on anomaly detection of an optical IoT data stream. 
 
 I've worked as an UNIMI research fellow, and the repositories related to my researcher period are `Foam_Segmentation`, `Hyperspectral_classificator` and `Tensorial_decomposition_for_anomaly_detection`. I'm currently working as Junior Data Scientist in Cefriel company. 
 
